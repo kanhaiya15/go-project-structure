@@ -1,5 +1,5 @@
 # go-project-structure
-github.com/kanhaiya15/gopf/
+```github.com/kanhaiya15/gopf/
 ├── pkg/
 |   ├── errors/
 |   ├── log/
@@ -27,3 +27,4 @@ github.com/kanhaiya15/gopf/
 ├── Makefile
 ├── README.md
 └── docker-compose.yml
+```
